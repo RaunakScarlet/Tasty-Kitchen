@@ -1,3 +1,15 @@
+
+<img width="1438" alt="Screenshot 2023-09-23 at 6 38 21 PM" src="https://github.com/RaunakScarlet/Tasty-Kitchen/assets/86217548/3301303a-e0e5-42cb-b549-099808e3639d">
+
+<img width="1435" alt="Screenshot 2023-09-23 at 6 38 43 PM" src="https://github.com/RaunakScarlet/Tasty-Kitchen/assets/86217548/be893ac1-8898-4f87-9918-19d4fd090be9">
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
